@@ -6,7 +6,7 @@
 /*   By: moboulan <moboulan@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/25 17:25:13 by moboulan          #+#    #+#             */
-/*   Updated: 2025/08/25 20:32:56 by moboulan         ###   ########.fr       */
+/*   Updated: 2025/08/26 11:25:06 by moboulan         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 # define BIGINT_HPP
 
 # include <iostream>
-#
 # include <sstream>
 
 class bigint
